@@ -1,0 +1,74 @@
+body{
+    background-color: #D3DAD9;
+   
+}
+body {
+  background-image: url("parlaa.png");
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: repeat-y;
+
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:#37353E;
+ 
+}
+
+
+h1{
+    text-align: center;
+    font-size: 450%;
+    color:#D3DAD9;
+   -webkit-text-stroke: 3px  #37353E;
+   
+}
+
+h2{
+    text-align: center;
+    font-size: 300%;
+    color:   #37353E;
+
+}
+
+.theList{
+    padding-left: 40%;
+    padding-right: 30%;
+
+    .btn{
+        color:#D3DAD9;
+        background-color: #715A5A;
+        border: #715A5A;
+        border-radius: 2px;
+    }
+
+}
+
+
+.inputTask{
+    input[type="text"] {
+    width: 300px;   /* makes it wider */
+    background-color: #D3DAD9;
+}
+
+}
+
+
+.tasks{
+
+   button{
+    color:#D3DAD9;
+    background-color: #37353E;
+    border: #37353E;
+    border-radius: 2px;
+    margin-right: 10px;
+   }
+}
+
+.lol{
+    text-align: center;
+    background-color: #37353E;
+    color:#D3DAD9;
+    margin-left: 40%;
+    margin-right: 30%;
+    
+}

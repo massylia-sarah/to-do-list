@@ -1,0 +1,37 @@
+body {
+  background-image: url("parla.png");
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: repeat-y;
+
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:#37353E;
+ 
+}
+
+.title{
+    text-align: center;
+    color: #37353E;
+    padding-top: 10%;
+    font-size: 500%;
+}
+
+.subtitle{
+    text-align: center;
+    color: #44444E;
+    font-size: 200%;
+}
+
+.inputStuff{
+    text-align: center;
+    color:#715A5A;
+}
+
+.StrtButton{
+    margin-left: 50%;
+    margin-top: 3%;
+    color:#D3DAD9; 
+    background-color:  #37353E;
+    border-color: #37353E;
+}
